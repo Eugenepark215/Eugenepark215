@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-##About Me
+##💬About Me
 
 I'm Eugene a web developer. I know JavaScript, React, Node,js, PostgreSQL, CSS, and I'm learning more everyday!
 
 I am also a project manager turned web developer, feel free to ask how I got here!
 
-Fun Facts:
+Interests:
 
-  * I love music and am currently listening to alots of metal ☠️🎸
+  * I'm a big music enthusiast and am currently listening to alot of metal ☠️🎸
+  * I
 
 
 <!--
