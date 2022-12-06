@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenepark215&hide=stars, contribs)](https://github.com/Eugenepark215/github-readme-stats)
+[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenepark215&hide=stars,contribs)](https://github.com/Eugenepark215/github-readme-stats)
 
   * 🔭 Currenty working on - stretch features for my personal projects
   * 🌱 Current learning - more React features
