@@ -6,6 +6,8 @@
 
 
 [![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenepark215&hide=stars,contribs&show_icons=true)](https://github.com/Eugenepark215/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact)](https://github.com/Eugenepark215/github-readme-stats)
+
 
 ## 💬About Me
 
