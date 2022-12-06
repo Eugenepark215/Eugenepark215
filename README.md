@@ -1,11 +1,11 @@
 ### Hi there 👋
-
-[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenepark215&hide=stars,contribs)](https://github.com/Eugenepark215/github-readme-stats)
-
   * 🔭 Currenty working on - stretch features for my personal projects
   * 🌱 Current learning - more React features
   * 📚 Stack - React, JavaScript ES6, Node,js, Express, HTML5, CSS3
   * 🛠 Tools - PostgreSQL, Babel, Webpack, npm, Git, Github, Figma, AWS S3, Heroku 
+
+
+[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugenepark215&hide=stars,contribs)](https://github.com/Eugenepark215/github-readme-stats)
 
 ## 💬About Me
 
