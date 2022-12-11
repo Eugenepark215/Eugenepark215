@@ -12,7 +12,7 @@
 I'm Eugene a web developer. I know JavaScript, React, Node,js, PostgreSQL, CSS, and I'm learning more everyday!
 
 I was a project manager in the construction industry and am now a web developer!
-I built strucutures in the past and now I build code!
+I built structures in the past and now I build code!
 
 
 💫Fun Facts!:
