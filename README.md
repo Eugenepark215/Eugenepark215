@@ -4,7 +4,7 @@
   * 📚 Stack - React, JavaScript ES6, Node.js, Express, HTML5, CSS3
   * 🛠 Tools - PostgreSQL, Babel, Webpack, npm, Git, Github, Figma, AWS S3, Heroku 
   
-| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Eugenepark215&ver=2&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Eugenepark215&ver=2/top-langs/?username=Eugenepark215&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 💬About Me
