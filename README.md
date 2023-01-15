@@ -9,7 +9,7 @@ I built structures in the past and now I build code!
 </p>
 
   
-| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="github-readme-stats-eugenepark215.vercel.app/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## 📚 Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
