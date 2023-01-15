@@ -9,8 +9,8 @@ I built structures in the past and now I build code!
 </p>
 
   
-| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="github-readme-stats-lime-ten-39.vercel.app
-/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="github-readme-stats-lime-ten-39.vercel.app
+| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-lime-ten-39.vercel.app
+/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-lime-ten-39.vercel.app
 /api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## 📚 Stack
