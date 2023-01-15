@@ -46,7 +46,8 @@ I built structures in the past and now I build code!
 
 ## 📫 Let's Connect 
 <a href="https://www.linkedin.com/in/eugenepark215/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="mailto:epark215@gmail.com">epark215@gmail.com</a>
+<a href="mailto:epark215@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+) </a>
 
 
 
