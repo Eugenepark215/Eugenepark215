@@ -40,6 +40,6 @@ I built structures in the past and now I build code!
 
 
 ## 📫 Let's Connect 
-<a href="[https://www.linkedin.com/in/brandon-k-moy/](https://www.linkedin.com/in/eugenepark215/)">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="[https://www.linkedin.com/in/eugenepark215/]">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
