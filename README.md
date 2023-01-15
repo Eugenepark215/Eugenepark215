@@ -33,6 +33,11 @@ I built structures in the past and now I build code!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+## 🎧Listening:
+
+[![Spotify](https://spotify-playing-eugenepark215.vercel.app/api/spotify)](https://open.spotify.com/user/epark215)
+
+
 ## 👨‍💻Currently:
 
 * 🔭 Working on - features for my personal portfolio
