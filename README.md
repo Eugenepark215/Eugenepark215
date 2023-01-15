@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h3 align="center">
-I'm Eugene a software developer.
+<h3>
+I'm Eugene!
 </h3>
 <p>
-I was a project manager in the construction industry and am now a web developer!<br>
+I was a project manager in the construction industry and I am now a software developer.<br>
 I built structures in the past and now I build code!
 </p>
 
