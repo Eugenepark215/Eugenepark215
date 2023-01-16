@@ -8,9 +8,6 @@ I was a project manager in the construction industry and I am now a software dev
 I built structures in the past and now I build code!
 </p>
 
-  
-| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 ## 📚 Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,6 +30,9 @@ I built structures in the past and now I build code!
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://github-readme-stats-eugenepark215.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 🎧Listening
 
