@@ -34,17 +34,17 @@ I built structures in the past and now I build code!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 🎧Listening:
+## 🎧Listening
 
 [![Spotify](https://spotify-playing-eugenepark215.vercel.app/api/spotify)](https://open.spotify.com/user/epark215)
 
 
-## 👨‍💻Currently:
+## 👨‍💻Currently
 
 * 🔭 Working on - features for my personal portfolio
 * 🌱 Learning - more React features & TypeScript
 
-## 💫Fun Facts!:
+## 💫Fun Facts!
 
   * I listen to 5-7 different types of musical genres on the regular. Right now I'm listening to alot of metal!💀🎸
   * I live with a tuxedo cat named <a href="https://drive.google.com/file/d/1Z-XOKroeXYjeP45t9DFO5Hr8rGisoJvU/view?usp=share_link">Porky </a> and at one point Porky was tipping the scales at 30+lbs!
