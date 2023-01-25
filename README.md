@@ -44,7 +44,7 @@ I built structures in the past and now I build code!
 ## 👨‍💻Currently
 
 * 🔭 Working on - features for my personal portfolio
-* 🌱 Learning - more React features & TypeScript
+* 🌱 Learning - TypeScript
 
 ## 💫Fun Facts!
 
