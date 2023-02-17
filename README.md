@@ -8,7 +8,9 @@ I was a project manager in the construction industry and I am now a software dev
 I built structures in the past and now I build code!
 </p>
 
-| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://eugenepark215-github-readme-stats-git-master-eugenepark215.vercel.app/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://eugenepark215-github-readme-stats-git-master-eugenepark215.vercel.app/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://eugenepark215-github-readme-stats.vercel.app
+/api/?username=Eugenepark215&show_icons=true&hide=stars,contribs&hide_border=true"/></a> | <a href="https://github.com/Eugenepark215/github-readme-stats"><img align="center" src="https://eugenepark215-github-readme-stats.vercel.app
+/api/top-langs/?username=Eugenepark215&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 📚 Stack
