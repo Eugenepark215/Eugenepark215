@@ -34,16 +34,17 @@ I built structures in the past and now I build code!
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## 👨‍💻Currently
 
-* 🔭 Working on - features for my personal portfolio
+* 🔭 Working on - features for my personal project How Much Do I Need to Afford a Home in California?
 * 🌱 Learning - Additional React Features
 
 ## 💫Fun Facts!
 
-  * I listen to 5-7 different types of musical genres on the regular. Right now I'm listening to alot of metal!💀🎸
+  * I like to listen to many musical genres. Right now I'm listening to alot of metal!💀🎸
   * I live with a tuxedo cat named <a href="https://drive.google.com/file/d/1Z-XOKroeXYjeP45t9DFO5Hr8rGisoJvU/view?usp=share_link">Porky </a> and at one point Porky was tipping the scales at 30+lbs!
 
 ## 🎧Listening
