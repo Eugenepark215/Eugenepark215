@@ -40,7 +40,7 @@ I built structures in the past and now I build code!
 
 ## 👨‍💻Currently
 
-* 🔭 Working on - features for my personal project How Much Do I Need to Afford a Home in California?
+* 🔭 Working on - features for my personal project
 * 🌱 Learning - Additional React Features
 
 ## 💫Fun Facts!
